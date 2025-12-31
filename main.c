@@ -77,7 +77,7 @@ int main(void) {
   // Model
   sphere = sphereInit(50, 50, &shaderProgram, &saturn);
   torus = torusInit(50, 2, 1.5f, 0.2f, &shaderProgram, &saturnRing);
-  object = modelInit("../models/man.obj", &shaderProgram, NULL);
+  object = modelInit("../models/shuttle.obj", &shaderProgram, NULL);
 
   // Callbacks
   glfwSetFramebufferSizeCallback(window, framebufferSizeCallback);

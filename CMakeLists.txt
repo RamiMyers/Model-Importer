@@ -7,8 +7,6 @@ project(ModelImporter)
 # Project Settings
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
-# Functions
-
 # Compile Executable
 add_executable(${PROJECT_NAME} main.c)
 
@@ -26,8 +24,6 @@ create_library(Texture texture.c Dependencies)
 create_library(Sphere sphere.c Dependencies)
 create_library(MatrixStack matrixStack.c Dependencies)
 create_library(Shape shape.c Dependencies)
-create_library(Cube cube.c Dependencies)
-create_library(Pyramid pyramid.c Dependencies)
 create_library(Torus torus.c Dependencies)
 create_library(Model model.c Dependencies)
 

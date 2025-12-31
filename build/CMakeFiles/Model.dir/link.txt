@@ -1,0 +1,2 @@
+/usr/bin/ar qc libModel.a CMakeFiles/Model.dir/src/model.c.o
+/usr/bin/ranlib libModel.a

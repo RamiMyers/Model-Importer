@@ -1,0 +1,50 @@
+[
+{
+  "directory": "/home/rami/CProjects/OpenGLProjects/ModelImporter/build",
+  "command": "/usr/bin/cc  -I/home/rami/CProjects/OpenGLProjects/ModelImporter/include  -o CMakeFiles/Sphere.dir/src/sphere.c.o -c /home/rami/CProjects/OpenGLProjects/ModelImporter/src/sphere.c",
+  "file": "/home/rami/CProjects/OpenGLProjects/ModelImporter/src/sphere.c",
+  "output": "CMakeFiles/Sphere.dir/src/sphere.c.o"
+},
+{
+  "directory": "/home/rami/CProjects/OpenGLProjects/ModelImporter/build",
+  "command": "/usr/bin/cc  -I/home/rami/CProjects/OpenGLProjects/ModelImporter/include  -o CMakeFiles/MatrixStack.dir/src/matrixStack.c.o -c /home/rami/CProjects/OpenGLProjects/ModelImporter/src/matrixStack.c",
+  "file": "/home/rami/CProjects/OpenGLProjects/ModelImporter/src/matrixStack.c",
+  "output": "CMakeFiles/MatrixStack.dir/src/matrixStack.c.o"
+},
+{
+  "directory": "/home/rami/CProjects/OpenGLProjects/ModelImporter/build",
+  "command": "/usr/bin/cc  -I/home/rami/CProjects/OpenGLProjects/ModelImporter/include  -o CMakeFiles/Shape.dir/src/shape.c.o -c /home/rami/CProjects/OpenGLProjects/ModelImporter/src/shape.c",
+  "file": "/home/rami/CProjects/OpenGLProjects/ModelImporter/src/shape.c",
+  "output": "CMakeFiles/Shape.dir/src/shape.c.o"
+},
+{
+  "directory": "/home/rami/CProjects/OpenGLProjects/ModelImporter/build",
+  "command": "/usr/bin/cc  -I/home/rami/CProjects/OpenGLProjects/ModelImporter/include  -o CMakeFiles/Torus.dir/src/torus.c.o -c /home/rami/CProjects/OpenGLProjects/ModelImporter/src/torus.c",
+  "file": "/home/rami/CProjects/OpenGLProjects/ModelImporter/src/torus.c",
+  "output": "CMakeFiles/Torus.dir/src/torus.c.o"
+},
+{
+  "directory": "/home/rami/CProjects/OpenGLProjects/ModelImporter/build",
+  "command": "/usr/bin/cc  -I/home/rami/CProjects/OpenGLProjects/ModelImporter/include  -o CMakeFiles/Model.dir/src/model.c.o -c /home/rami/CProjects/OpenGLProjects/ModelImporter/src/model.c",
+  "file": "/home/rami/CProjects/OpenGLProjects/ModelImporter/src/model.c",
+  "output": "CMakeFiles/Model.dir/src/model.c.o"
+},
+{
+  "directory": "/home/rami/CProjects/OpenGLProjects/ModelImporter/build",
+  "command": "/usr/bin/cc  -I/home/rami/CProjects/OpenGLProjects/ModelImporter/include  -o CMakeFiles/Shader.dir/src/shader.c.o -c /home/rami/CProjects/OpenGLProjects/ModelImporter/src/shader.c",
+  "file": "/home/rami/CProjects/OpenGLProjects/ModelImporter/src/shader.c",
+  "output": "CMakeFiles/Shader.dir/src/shader.c.o"
+},
+{
+  "directory": "/home/rami/CProjects/OpenGLProjects/ModelImporter/build",
+  "command": "/usr/bin/cc  -I/home/rami/CProjects/OpenGLProjects/ModelImporter/include  -o CMakeFiles/Texture.dir/src/texture.c.o -c /home/rami/CProjects/OpenGLProjects/ModelImporter/src/texture.c",
+  "file": "/home/rami/CProjects/OpenGLProjects/ModelImporter/src/texture.c",
+  "output": "CMakeFiles/Texture.dir/src/texture.c.o"
+},
+{
+  "directory": "/home/rami/CProjects/OpenGLProjects/ModelImporter/build",
+  "command": "/usr/bin/cc -DPROJECT=\\\"ModelImporter\\\" -I/home/rami/CProjects/OpenGLProjects/ModelImporter/include  -o CMakeFiles/ModelImporter.dir/main.c.o -c /home/rami/CProjects/OpenGLProjects/ModelImporter/main.c",
+  "file": "/home/rami/CProjects/OpenGLProjects/ModelImporter/main.c",
+  "output": "CMakeFiles/ModelImporter.dir/main.c.o"
+}
+]
