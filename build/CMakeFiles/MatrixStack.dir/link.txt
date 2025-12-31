@@ -1,2 +1,0 @@
-/usr/bin/ar qc libMatrixStack.a CMakeFiles/MatrixStack.dir/src/matrixStack.c.o
-/usr/bin/ranlib libMatrixStack.a

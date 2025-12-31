@@ -26,6 +26,7 @@ create_library(MatrixStack matrixStack.c Dependencies)
 create_library(Shape shape.c Dependencies)
 create_library(Torus torus.c Dependencies)
 create_library(Model model.c Dependencies)
+create_library(GLAD glad.c Dependencies)
 
 # Include Directory
 include_directories(include/)
@@ -34,5 +35,4 @@ include_directories(include/)
 target_compile_definitions(${PROJECT_NAME} PUBLIC PROJECT="${PROJECT_NAME}")
 
 # Links Libraries
-target_link_libraries(${PROJECT_NAME} glad glfw3 GL m ${Dependencies})
-
+target_link_libraries(${PROJECT_NAME} glfw3 GL m ${Dependencies})

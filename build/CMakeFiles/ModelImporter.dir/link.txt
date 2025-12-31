@@ -1,1 +1,0 @@
-/usr/bin/cc CMakeFiles/ModelImporter.dir/main.c.o -o ModelImporter  -lglad -lglfw3 -lGL -lm libShader.a libTexture.a libSphere.a libMatrixStack.a libShape.a libTorus.a libModel.a 
